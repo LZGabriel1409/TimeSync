@@ -47,9 +47,9 @@
         <form id="task-form">
           <input type="text" id="task-input" placeholder="Describe your task..." required>
           <select id="task-category">
-            <option value="Trabalho">Work</option>
-            <option value="Estudos">Studies</option>
-            <option value="Pessoal">Personal</option>
+            <option value="Work">Work</option>
+            <option value="Studies">Studies</option>
+            <option value="Personal">Personal</option>
           </select>
           <button type="submit" class="btn btn-primary">Add</button>
         </form>
@@ -60,10 +60,10 @@
         <div class="filter">
           <label for="filter-category">Filter by category:</label>
           <select id="filter-category">
-            <option value="Todas">All</option>
-            <option value="Trabalho">Work</option>
-            <option value="Estudos">Studies</option>
-            <option value="Pessoal">Personal</option>
+            <option value="All">All</option>
+            <option value="Work">Work</option>
+            <option value="Studies">Studies</option>
+            <option value="Personal">Personal</option>
           </select>
         </div>
 
@@ -89,9 +89,9 @@
 
     let tasks = JSON.parse(localStorage.getItem('tasks')) || [];
 
-    function renderTasks(filter = 'Todas') {
+    function renderTasks(filter = 'All') {
       taskList.innerHTML = '';
-      const filteredTasks = tasks.filter(t => filter === 'Todas' || t.category === filter);
+      const filteredTasks = tasks.filter(t => filter === 'All' || t.category === filter);
       filteredTasks.forEach((task, index) => {
         const li = document.createElement('li');
         li.className = 'fade-in';
