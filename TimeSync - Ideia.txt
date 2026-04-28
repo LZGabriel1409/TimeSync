@@ -1,0 +1,79 @@
+O que precisa ter na apresentação:
+Empresa, o que faz, como foi criada, produto, primeiro rascunho do produto, primeiro produto, produto final (evolução da coisa)
+
+Bem feito, claro, com detalhes, branding e tudo mais.
+
+Nome para a empresa: TimeSync
+
+“Time” = tempo → foco em produtividade, rotina e gestão.
+“Sync” = sincronizar → ideia de harmonia, integração e fluidez.
+Juntas, as palavras formam “TimeSync”, que simboliza a sincronização perfeita entre tempo, tecnologia e bem-estar.
+
+
+o que ela faz?
+ A TimeSync é uma empresa de tecnologia e produtividade digital que desenvolve soluções inteligentes para gestão de tempo, organização pessoal e automação de tarefas.
+ Seu objetivo é ajudar pessoas e equipes a sincronizarem suas rotinas e aumentarem a eficiência de forma leve, prática e inteligente.
+
+
+Como foi criada?
+ A TimeSync surgiu em 2025, quando eu mesmo percebi um problema comum entre estudantes e profissionais, que seria:
+ A dificuldade em manter foco, cumprir prazos e equilibrar a vida pessoal e o trabalho.
+
+ Inspirado por uma metodologias como Pomodoro e Getting Things Done, eu decidi criar uma plataforma que unisse design minimalista, tecnologia acessível e foco real no usuário.
+
+ O primeiro protótipo foi desenvolvido usando um site, com o objetivo de criar uma ferramenta de produtividade intuitiva e visualmente agradável.
+ A ideia pareceu boa, e então decidi transformá-la em um produto completo.
+
+
+Produto?
+TimeSync Site — um site que ajuda o usuário a organizar o tempo, definir metas e acompanhar o progresso de forma interativa e gamificada.
+Funciona como um painel de controle pessoal, onde cada minuto é sincronizado com suas metas diárias, semanais e mensais.
+
+
+primeiro rascunho do produto?
+O primeiro rascunho era extremamente simples:
+Uma página web única, com uma lista de tarefas e um cronômetro Pomodoro (25 minutos de foco e 5 de pausa).
+Feito apenas com HTML, CSS e JavaScript puro.
+Visual minimalista: fundo branco, botões azuis, e tipografia sem serifa.
+
+
+primeiro produto?
+Após o avanço do protótipo, a TimeSync criou uma versão beta chamada TimeSync 1.0, com novas funcionalidades:
+
+Principais Recursos:
+Task Manager (Gerenciador de Tarefas) – criar, editar e organizar tarefas por categoria.
+Pomodoro Timer – cronômetro personalizável com sons e notificações.
+Daily Goals – metas diárias com barra de progresso.
+O design passou a usar cores azul-escuro e lilás, com fontes Poppins e Roboto.
+O logotipo foi desenhado como um ícone de relógio estilizado, com linhas curvas representando o movimento do tempo.
+
+Slogan Atual
+“Synchronize your time. Simplify your life.”
+(“Sincronize seu tempo. Simplifique sua vida.”)
+
+
+produto final?
+O produto final ainda não foi produzido porém seria assim: o produto evoluiria de um simples site de ferramenta de tarefas para um aplicativo completo de organização e bem-estar digital.
+
+Principais Recursos da Versão Final:
+Smart Scheduler – IA que analisa suas tarefas e sugere o melhor horário para realizá-las.
+Focus Mode 2.0 – bloqueia distrações (como notificações e sites) durante o foco.
+TeamSync – espaço colaborativo para equipes compartilharem metas e cronogramas.
+Analytics Hub – relatórios automáticos com insights sobre produtividade.
+Cross-Sync – sincronização com dispositivos e calendários (Google, Outlook, etc.).
+
+Identidade Visual
+Cores: Azul-marinho (#1B2A49), Azul-claro (#5BC0EB), Branco e Toques de Roxo.
+Logo: Um círculo dividido em 4 partes, lembrando um relógio digital em movimento.
+Tipografia: Orbitron (títulos futuristas) + Poppins (texto).
+Estilo: Moderno, limpo, com animações suaves (fade, slide e pulsar).
+
+
+Branding da TimeSync
+Elemento		Descrição
+Missão			Tornar a produtividade algo simples, humano e acessível.
+Visão			Ser a principal plataforma global de gestão inteligente do tempo.
+Valores			Foco, inovação, equilíbrio, simplicidade e impacto positivo.
+Personalidade da Marca	Moderna, confiável, inspiradora e calma.
+Tom de Comunicação	Amigável, encorajador e motivacional (“You can do it, one task at a time.”).
+Público-alvo		Jovens profissionais, estudantes e equipes remotas que buscam mais foco e equilíbrio.
